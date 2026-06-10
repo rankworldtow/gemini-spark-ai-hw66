@@ -1,4 +1,4 @@
-# 
+# Código aberto Gemini Spark temas. Com fluxos de trabalho automatizados e IA explicável — otimizado para máximo desempenho e eficiência.
 
 
 
